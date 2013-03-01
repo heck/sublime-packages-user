@@ -1,0 +1,4 @@
+{
+	"cmd": ["/usr/local/bin/rake", "test", "TEST=$file"],
+	"selector": "source.ruby"
+}

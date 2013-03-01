@@ -1,0 +1,4 @@
+{
+	"last_test_run": "ruby -Itest test/functional/root_controller_test.rb -n 'test_should_get_index'",
+	"last_test_working_dir": "/Users/sheckt/Dropbox/Dad/memply"
+}

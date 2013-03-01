@@ -1,0 +1,7 @@
+[
+{ "keys": ["*"], "command": "find_under_expand", "context": [{ "key": "setting.command_mode"}] },
+{ "keys": ["n"], "command": "find_next", "context": [{"key": "setting.command_mode"}] },
+{ "keys": ["N"], "command": "find_prev", "context": [{"key": "setting.command_mode"}] },
+{ "keys": ["ctrl+8"], "command": "find_under_expand_skip" },
+{ "keys": ["shift+tab"], "command": "find_under_expand_skip" }
+]

@@ -1,0 +1,14 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"DetectSyntax",
+		"GitGutter",
+		"Lua Dev",
+		"Package Control",
+		"RubyMotionBuilder",
+		"RubyTest",
+		"TransposeCharacter"
+	]
+}

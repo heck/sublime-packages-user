@@ -1,0 +1,20 @@
+<snippet>
+ <content><![CDATA[
+require 'minitest/autorun'
+require '${TM_FILENAME/Test//}'
+
+class ${TM_FILENAME/\.rb//} < MiniTest::Unit::TestCase
+    def setup
+    end
+
+    def test_${1:initialize}
+        ${2:assert_equal true, 1+1==2}
+    end
+end
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>cla</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.ruby</scope>
+  <description>MiniTest File Template</description>
+</snippet>	
